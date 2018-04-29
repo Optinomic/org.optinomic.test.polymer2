@@ -21,7 +21,7 @@ website = http://www.optinomic.com/
 __opapp_include(readme.md)
 
 [template main 6 7]
-__opapp_include(../lib/polymer2/index.m4)
+__opapp_include(lib/polymer2/index.m4)
 __opapp_include(elements/view.html)
 
 
